@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrardalan
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning CS50
+- 📫 How to reach me : you can find me in Social medias @mrardalan
